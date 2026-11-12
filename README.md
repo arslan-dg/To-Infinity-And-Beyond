@@ -68,7 +68,7 @@ https://leetcode.com/explore/learn/card/graph/
 https://www.youtube.com/watch?v=bC7o8P_Ste4&ab_channel=freeCodeCamp.org
 - Dynamic Programming <br />
 https://leetcode.com/explore/learn/card/dynamic-programming/ <br />
-https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews?aff=VOY6
+https://www.designgurus.io/course/grokking-dynamic-programming
 
 - Union Find <br/>
 TODO: <br/>
@@ -91,7 +91,7 @@ https://leetcode.com/explore/learn/card/binary-search/
 https://www.youtube.com/@NeetCode/playlists <br/>
 
 - Grokking The Coding Interview <br />
-https://www.educative.io/courses/grokking-the-coding-interview
+https://www.designgurus.io/course/grokking-the-coding-interview
 
 - Cracking the Coding Interview <br />
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
@@ -111,10 +111,10 @@ https://www.udemy.com/course/pragmatic-system-design/
 https://www.educative.io/path/scalability-system-design
 
 - Grokking the System Design Interview <br />
-https://www.educative.io/courses/grokking-the-system-design-interview
+https://www.designgurus.io/course/grokking-the-system-design-interview
 
 - Grokking the Advanced System Design Interview <br />
-https://www.educative.io/courses/grokking-adv-system-design-intvw
+https://www.designgurus.io/course/grokking-system-design-interview-ii
 
 - System Design Interview Book <br />
 https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
